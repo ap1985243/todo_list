@@ -69,5 +69,3 @@ search.addEventListener('keyup', (e)=>{
     // console.log(search.value);
 })
 
-const a1 = "Abhishek";
-console.log(a1.toLowerCase(), a1.toUpperCase());
