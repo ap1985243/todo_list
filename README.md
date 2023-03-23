@@ -11,10 +11,9 @@ This is a simple ToDo application built with HTML, CSS, and JavaScript. The appl
 Getting started
 
 To use the ToDo app, you can clone the repository using the following command:
-
-bash
-
-git clone https://github.com/ap1985243/todo_list.git
+```console
+foo@bar:~$ git clone https://github.com/ap1985243/todo_list.git
+```
 
 Then, you can open the index.html file in your web browser to start using the app.
 
