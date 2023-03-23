@@ -19,6 +19,7 @@ git clone https://github.com/ap1985243/todo_list.git
 Then, you can open the index.html file in your web browser to start using the app.
 
 Dependencies
+
 The ToDo app uses the following dependencies:
 
     Bootstrap v5.1.3 for the frontend design and layout
@@ -26,6 +27,7 @@ The ToDo app uses the following dependencies:
 
 Both dependencies are included in the css and js folders of the project.
 Usage
+
 Adding a new task
 
 To add a new task, simply type the task description in the input field and press the "Add" button. The task will be added to the bottom of the list.
