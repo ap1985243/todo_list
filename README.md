@@ -41,6 +41,8 @@ To search for a task, type the search query in the search input field. The app w
 Deleting a completed task
 
 To delete a completed task, click on the "Delete" button next to the task. The task will be removed from the list.
+
+
 License
 
 This project is licensed under the MIT License.
