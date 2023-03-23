@@ -1,4 +1,5 @@
-This is a simple ToDo application built with HTML, CSS, and JavaScript. The application provides the following features:
+# Todo List
+This is a simple Todo application built with HTML, CSS, and JavaScript. The application provides the following features:
 
     Adding new tasks to the list
     Searching through the list of tasks
@@ -14,27 +15,27 @@ To use the ToDo app, you can clone the repository using the following command:
 foo@bar:~$ git clone https://github.com/ap1985243/todo_list.git
 ```
 
-Then, you can open the index.html file in your web browser to start using the app.
+Then, you can open the **index.html** file in your web browser to start using the app.
 
 # Dependencies
 
 The ToDo app uses the following dependencies:
 
-    Bootstrap v5.1.3 for the frontend design and layout
-    Font Awesome v5.15.4 for icons
+    Bootstrap for the frontend design and layout
+    Font Awesome for icons
 
 Both dependencies are included in the css and js folders of the project.
 # Usage
 
 ## Adding a new task
 
-To add a new task, simply type the task description in the input field and press the "Add" button. The task will be added to the bottom of the list.
+To add a new task, simply type the task description in the input field and press the "**Add**" button. The task will be added to the bottom of the list.
 
 
 ## Searching for a task
 
 
-To search for a task, type the search query in the search input field. The app will filter the list of tasks based on the search query.
+To search for a task, type the search query in the search input field. The app will **filter** the list of tasks based on the search query.
 
 
 ![todo-list-part2](https://user-images.githubusercontent.com/40575848/227308405-87ceb4df-f77f-468e-a386-f36904b26ed9.png)
@@ -42,7 +43,7 @@ To search for a task, type the search query in the search input field. The app w
 
 ## Deleting a completed task
 
-To delete a completed task, click on the "Delete" button next to the task. The task will be removed from the list.
+To delete a completed task, click on the "**Delete**" button next to the task. The task will be removed from the list.
 
 
 # License
