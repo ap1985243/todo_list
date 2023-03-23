@@ -17,8 +17,8 @@ bash
 git clone https://github.com/ap1985243/todo_list.git
 
 Then, you can open the index.html file in your web browser to start using the app.
-Dependencies
 
+Dependencies
 The ToDo app uses the following dependencies:
 
     Bootstrap v5.1.3 for the frontend design and layout
