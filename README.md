@@ -34,6 +34,7 @@ To add a new task, simply type the task description in the input field and press
 
 Searching for a task
 
+
 ![todo-list-part2](https://user-images.githubusercontent.com/40575848/227308405-87ceb4df-f77f-468e-a386-f36904b26ed9.png)
 
 
